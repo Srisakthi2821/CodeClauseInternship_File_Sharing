@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Saira Condensed', sans-serif;
+}
+
+.bg_fileeshearing {
+    background: black;
+    height: 100vh;
+    padding: 2rem;
+}
+
+.heading_fileShear,
+.etxt_para_cpty {
+    font-size: 2rem;
+    color: white;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
+
+.spa_main_head {
+    font-size: 3rem;
+}
+
+.para_shar {
+    color: #57dfee;
+    font-size: 1.5rem;
+}
+
+.bg_button,
+.buttonSuccess {
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.link_sharing_para {
+    color: blue;
+    font-size: 2rem;
+    text-shadow: 0px 0px 20px blue;
+}
+
+.buttonSuccess {
+    background: green;
+    color: white;
+}
